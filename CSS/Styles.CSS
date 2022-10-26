@@ -1,0 +1,503 @@
+body{
+  margin:0px;
+  background-color: #a1887f;
+
+}
+.cloudtop{
+  width:150px;
+  height:150px;
+  display:inline-block;
+  position: absolute;
+  top:30px;
+  right: 550px;
+}
+.cloudbottom{
+  width:150px;
+  height:150px;
+  display:inline-block;
+  position:absolute;
+  right:850px;
+}
+.cloudbottom2{
+  width:100px;
+  height:100px;
+  display:inline-block;
+  position:absolute;
+  right: 450px;
+  bottom:150px;
+}
+ .center{
+   text-align:center;
+ }
+ .contact{
+   margin-top: 0;
+ }
+.divHead{
+  background-color:#9BC2B2;
+  height:460px;
+  width: auto;
+  position:relative;
+  padding-top:150px;
+}
+
+.divSom{
+  height:40px;
+  width:auto;
+  background-color:#F5E3CB;
+}
+.divL{
+  height: 1100px;
+  width: 480px;
+  background-color: #4e342e;
+  position: absolute;
+
+}
+.divR{
+  height: 1100px;
+  width: 480px;
+  background-color: #4e342e;
+  position: absolute;
+  margin-left: 930px;
+
+}
+.Name{
+  margin:0 auto;
+  font-size:4rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align:center;
+}
+.Univer{
+    margin:0 auto;
+    font-size: 2.5rem;
+    font-family: 'Noto Sans Thai', sans-serif;
+    text-align:center;
+}
+.mountains{
+  width:900px;
+  height:900px;
+  display:inline-block;
+  position:absolute;
+  top:60px;
+  right: 250px;
+  text-align:center;
+}
+.PHIYADA{
+  border-style:solid;
+  border-color:#fafafa;
+  border-radius:600px;
+  width:350px;
+  margin-top:0px;
+  margin-bottom:20px;
+  height: 350px;
+  text-align: center;
+}
+.profile{
+  text-align:center;
+  margin-top: 50px;
+}
+.Hello{
+  margin:0 auto;
+  font-size:2rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align:center;
+
+}
+.intro{
+  margin:0 auto;
+  font-size:1rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align:center;
+
+}
+.Letter{
+  margin-left: 185px;
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+
+}
+.LetterL{
+  margin-top: 0px;
+  color: white;
+  font-size:2rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align: center;
+}
+.browser{
+display: inline-block;
+margin-left: 70px;
+margin-top: 10px;
+position:absolute;
+height: 50px;
+width: 50px;
+}
+.message{
+  margin-left: 70px;
+  margin-top: 70px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+
+}
+.phone{
+  margin-left: 70px;
+  margin-top: 130px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+}
+.phi{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 25px;
+  font-family: 'Noto Sans Thai', sans-serif;
+
+}
+.Gm{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 85px;
+  font-family: 'Noto Sans Thai', sans-serif;
+
+}
+.tell{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 140px;
+  font-family: 'Noto Sans Thai', sans-serif;
+
+}
+.Skill{
+  position: absolute;
+  margin-left: 165px;
+  margin-top: 250px;
+  color: white;
+  font-size:2rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.competence{
+  margin: 0px;
+  width: 150px;
+  height: 150px;
+}
+.Sk{
+  text-align: center;
+  margin-top: 0px;
+}
+.Jar{
+  display: inline-block;
+  margin-left: 65px;
+  margin-top: 500px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+
+}
+.photoshop{
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 560px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+
+}
+.premiere{
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 620px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+
+}
+.ppt{
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 680px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+}
+.doc{
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 740px;
+  position:absolute;
+  height: 50px;
+  width: 50px;
+}
+.Ja{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 520px;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.pho{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 580px;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.pre{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 635px;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.Do{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 695px;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.Pt{
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+  margin-left: 130px;
+  margin-top: 755px;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.Textla{
+  text-align: center;
+}
+.language{
+  margin-top: 50px;
+  margin-left: 170px;
+  color: white;
+  font-size:2rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+.ImgLa{
+  width: 150px;
+  height: 150px;
+}
+.La{
+   margin-top: 0;
+
+}
+
+.textEng{
+  position: absolute;
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 1rem;
+  color: white;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+.textDe{
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 50px;
+
+
+}
+.textJap{
+  position: absolute;
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-size: 1rem;
+  color: white;
+  margin-left: 150px;
+  margin-top: 90px;
+}
+.textDj{
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 120px;
+
+}
+.translation{
+display: inline-block;
+margin-left:90px;
+margin-top: 20px;
+position:absolute;
+height:50px;
+width: 50px;
+}
+.translation2{
+  display: inline-block;
+  margin-left:90px;
+  margin-top: 90px;
+  position:absolute;
+  height:50px;
+  width: 50px;
+}
+.experience{
+  position: absolute;
+  margin-left: 170px;
+  margin-top: 250px;
+}
+.exper{
+  margin: 0px;
+  width: 150px;
+  height: 150px;
+}
+.EX{
+  margin-top:0px;
+ font-size: 2rem;
+ color: white;
+ font-family:'Noto Sans Thai', sans-serif;
+}
+.TABLE{
+  margin-top: 500px;
+  margin-left: 100px;
+  text-align: center;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid white;
+    color: white;
+    font-size: 1rem;
+    font-family:'Noto Sans Thai', sans-serif;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+.Proimg{
+  margin-top: 20px;
+
+}
+.IMGF {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  height:50px;
+  width: 50px;
+}
+.IMGF:hover {
+    background-color:#01579b;
+}
+
+.IMGL{
+  position: relative;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  height:50px;
+  width: 50px;
+}
+.IMGL:hover {
+    background-color:#056f00;
+  }
+.IMGI{
+  position: relative;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  height:50px;
+  width: 50px;
+}
+
+.IMGI:hover{
+  background-color: #4a148c;
+}
+.bowling{
+  height:50px;
+  width: 50px;
+  margin-right:20px;
+}
+.ice-skate{
+  height:50px;
+  width: 50px;
+  margin-right:20px;
+}
+.crochet{
+  height:50px;
+  width: 50px;
+  margin-right:20px;
+}
+.hobby{
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+  font-size:2rem;
+  font-family:'Noto Sans Thai', sans-serif;
+}
+.tv{
+  height:50px;
+  width: 50px;
+  margin-right:20px;
+}
+.hop{
+  margin-bottom: 40px;
+}
+.IN{
+  font-size:2rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align:center;
+  margin-bottom: 10px;
+}
+.Wa{
+  font-size:1rem;
+  font-family: 'Noto Sans Thai', sans-serif;
+  text-align:center;
+}
+.TextIn{
+  width: 30%;
+  margin-left: 500px;
+}
+  .hr1{
+    margin-top: 20px;
+    border: solid #4e342e;
+    width: 100%;
+
+  }
+  .hr2{
+    margin-top: 75px;
+    border: solid #4e342e;
+    border-width: 100%;
+  }
+  /* .hr3{
+    margin-top: 30px;
+    border: solid #4e342e;
+    border-width: 83px 0px 0px 0px;
+  } */
+  .Mypro{
+    color: #3e2723;
+
+    font-size:4rem;
+    font-family: 'Pattaya', sans-serif;
+    text-align:center;
+  /* }
+  .Mypro2{
+    display: inline-block;
+    position: absolute;
+    margin-top: 60px;
+    color: white;
+    border-color: white;
+    border-radius:10px;
+    font-size:4rem;
+    font-family:'Pattaya', sans-serif;
+    text-align:center;
+  } */
